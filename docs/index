@@ -1,0 +1,108 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidad - Listening2Go Teacher's Aid</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        .container {
+            background-color: #fff;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #2980b9;
+            margin-top: 30px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        .footer {
+            margin-top: 40px;
+            font-size: 0.9em;
+            text-align: center;
+            color: #777;
+            border-top: 1px solid #eee;
+            padding-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Política de Privacidad de Listening2Go Teacher's Aid</h1>
+        <p><strong>Última actualización:</strong> 20-01-2026</p>
+
+        <p>En Listening2Go, respetamos su privacidad y nos comprometemos a proteger la información personal que usted pueda proporcionarnos. Esta Política de Privacidad describe cómo recopilamos, utilizamos y compartimos su información cuando utiliza nuestra aplicación móvil, Listening2Go Teacher's Aid (en adelante, la "Aplicación").</p>
+
+        <h2>1. Información que recopilamos</h2>
+        <ul>
+            <li><strong>Información de uso:</strong> Recopilamos información sobre cómo utiliza la Aplicación, como las funciones que utiliza, la frecuencia con la que la utiliza y la duración de sus sesiones.</li>
+            <li><strong>Información del dispositivo:</strong> Recopilamos información sobre el dispositivo que utiliza para acceder a la Aplicación, como el modelo del dispositivo, el sistema operativo y la versión, el identificador único del dispositivo y la dirección IP.</li>
+            <li><strong>Información de ubicación:</strong> No recopilamos información precisa sobre su ubicación.</li>
+            <li><strong>Información proporcionada por el usuario:</strong> Si se comunica con nosotros para solicitar asistencia o proporcionar comentarios, podemos recopilar su nombre, dirección de correo electrónico y cualquier otra información que decida proporcionarnos.</li>
+        </ul>
+
+        <h2>2. Cómo utilizamos su información</h2>
+        <p>Utilizamos la información que recopilamos para:</p>
+        <ul>
+            <li>Proporcionar, mantener y mejorar la Aplicación.</li>
+            <li>Personalizar su experiencia con la Aplicación.</li>
+            <li>Analizar el uso de la Aplicación y las tendencias.</li>
+            <li>Comunicarnos con usted, responder a sus consultas y proporcionarle asistencia.</li>
+            <li>Cumplir con nuestras obligaciones legales.</li>
+        </ul>
+
+        <h2>3. Compartir su información</h2>
+        <p>No compartimos su información personal con terceros, excepto en las siguientes circunstancias:</p>
+        <ul>
+            <li><strong>Con su consentimiento:</strong> Podemos compartir su información con terceros si usted nos da su consentimiento para hacerlo.</li>
+            <li><strong>Para cumplir con la ley:</strong> Podemos compartir su información si creemos que es necesario para cumplir con una ley, reglamento o proceso legal aplicable.</li>
+            <li><strong>Para proteger nuestros derechos:</strong> Podemos compartir su información si creemos que es necesario para proteger nuestros derechos, propiedad o seguridad, o los de otros.</li>
+            <li><strong>En relación con una fusión o adquisición:</strong> Si participamos en una fusión, adquisición o venta de activos, su información puede ser transferida como parte de esa transacción.</li>
+        </ul>
+
+        <h2>4. Publicidad</h2>
+        <p>La Aplicación utiliza servicios de publicidad de terceros, como Google AdMob, para mostrar anuncios. Estos servicios pueden utilizar cookies y otras tecnologías de seguimiento para recopilar información sobre su uso de la Aplicación y otros sitios web y aplicaciones, con el fin de mostrarle anuncios que sean relevantes para sus intereses.</p>
+
+        <h2>5. Seguridad de los datos</h2>
+        <p>Tomamos medidas razonables para proteger su información personal contra el acceso, uso o divulgación no autorizados. Sin embargo, ningún método de transmisión por Internet o de almacenamiento electrónico es 100% seguro. Por lo tanto, no podemos garantizar su seguridad absoluta.</p>
+
+        <h2>6. Sus derechos</h2>
+        <p>Usted tiene derecho a acceder, corregir o eliminar su información personal. También puede oponerse al procesamiento de su información o solicitar que restrinjamos dicho procesamiento. Para ejercer estos derechos, póngase en contacto con nosotros en la dirección de correo electrónico de contacto proporcionada abajo.</p>
+
+        <h2>7. Cambios en esta Política de Privacidad</h2>
+        <p>Podemos actualizar esta Política de Privacidad de vez en cuando. Si realizamos cambios importantes, se lo notificaremos mediante una notificación en la Aplicación o por otros medios.</p>
+
+        <h2>8. Contacto</h2>
+        <p>Si tiene alguna pregunta sobre esta Política de Privacidad, póngase en contacto con nosotros en:</p>
+        
+        <p>
+            <strong>Nombre:</strong> Sixto Alonso Bonilla<br>
+            <strong>Correo de contacto:</strong> sixtoalbo9@gmail.com
+        </p>
+
+        <div class="footer">
+            <p>&copy; 2026 Listening2Go. Todos los derechos reservados.</p>
+        </div>
+    </div>
+</body>
+</html>
